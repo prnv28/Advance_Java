@@ -1,8 +1,8 @@
 import java.io.DataInputStream;
-import java.io.IOException;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
+        import java.io.IOException;
+        import java.net.DatagramPacket;
+        import java.net.DatagramSocket;
+        import java.net.InetAddress;
 
 public class UDPClient {
     public static void main(String [] args ) throws IOException {
